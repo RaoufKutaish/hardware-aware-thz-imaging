@@ -1,1 +1,18 @@
+[project]
+name = "thz-reconstruction"
+version = "0.1.0"
+description = "Reconstruction methods for THz computational imaging"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Abdulraouf Kutaish" }
+]
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib"
+]
 
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
