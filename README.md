@@ -1,4 +1,4 @@
-# Hardware-Aware Sparse Terahertz Imaging
+# Hardware-Aware 3D Terahertz Imaging
 
 This repository contains Python code associated with the manuscript:
 
